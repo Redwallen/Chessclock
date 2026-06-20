@@ -1,0 +1,49 @@
+/* Tab Bar */
+"计时" = "Timer";
+"设置" = "Settings";
+
+/* 时长设置 */
+"时长设置" = "Time Control";
+"白方时间" = "White's Time";
+"黑方时间" = "Black's Time";
+
+/* Picker labels */
+"时" = "Hour";
+"分" = "Minute";
+"秒" = "Second";
+
+/* Picker format strings */
+"picker_hour" = "%dh";
+"picker_minute" = "%dm";
+"picker_second" = "%ds";
+
+/* 加时设置 */
+"加时设置" = "Increment";
+"加时" = "Increment";
+"加时规则说明" = "Increment Rules";
+"知道了" = "OK";
+"无" = "None";
+"闹钟声" = "Alarm";
+"铃声" = "Bell";
+"提示音" = "Notification";
+"经典" = "Classic";
+"费舍尔时间" = "Fischer";
+"布罗斯坦时间" = "Bronstein";
+
+/* Increment label format */
+"increment_label" = "%@ +%ds";
+
+/* 铃声设置 */
+"铃声设置" = "Sound";
+
+/* 计时显示 */
+"计时显示" = "Display";
+"显示小时（时:分:秒）" = "Show Hours (h:mm:ss)";
+
+/* 外观 */
+"外观" = "Appearance";
+"跟随系统" = "Follow System";
+"深色模式" = "Dark Mode";
+
+/* Increment info alert */
+"费舍尔时间 (Fischer)：每步棋后，加时秒数直接加到剩余时间上。\n\n布罗斯坦时间 (Bronstein)：每步棋后，加时秒数加到剩余时间上，但不能超过该回合开始时的剩余时间。" = "Fischer: After each move, the increment seconds are added directly to the remaining time.\n\nBronstein: After each move, the increment seconds are added to the remaining time, but the total cannot exceed the time at the start of the turn.";
